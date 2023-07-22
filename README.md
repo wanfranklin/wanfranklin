@@ -5,14 +5,7 @@ Olá! Sou um desenvolvedor Full Stack Sênior apaixonado por tecnologia e inova�
 
 # Habilidades:
 
-Linguagens: C#, JavaScript, SQL
-Front-end: ASP.NET WebForms, HTML, CSS, Bootstrap
-Back-end: ASP.NET Core
-Bancos de Dados: SQL Server, MySQL, MariaDB, Oracle, PostgreSQL
-DevOps: Git, Azure DevOps
-Cloud: Microsoft Azure
-Metodologias Ágeis: Scrum, Kanban
-Projetos Destacados:
+Minhas habilidades técnicas incluem .NET, BI, API banking, E-commerce, VTEX, liderança, docência, Scrum, Kanban, C# (Console Application, Windows Forms, ASPNET WebForms, MVC, Core e Mobile), XML, JSON, TDD, DDD, microsserviços, Web API/REST, Webservice, Swagger, Postman, SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, HTML5, CSS, JavaScript, Bootstrap, PHP, Git, Gitflow, Docker, Azure DevOps, Jira, Confluence, Trello, BI, UI e UX.
 
 # Filosofia de Trabalho:
 
