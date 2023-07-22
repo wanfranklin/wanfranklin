@@ -30,6 +30,8 @@ Meu entusiasmo em explorar o desconhecido e enfrentar novos desafios impulsiona 
 
 Com experiência em gestão de projetos, desenvolvimento, docência e satisfação do usuário, meu objetivo é deixar um legado significativo. Busco constantemente resultados inovadores ao enfrentar novos desafios. Minhas habilidades abrangem ampla gama de tecnologias, do front-end ao back-end, inspirando e impactando em cada projeto.
 
-Estou preparado para liderar, colaborar e impulsionar o crescimento do negócio. Vamos juntos criar soluções inovadoras e impactantes! #Desenvolvimento #MetodologiasÁgeis #Liderança 
+Estou preparado para liderar, colaborar e impulsionar o crescimento do negócio. Vamos juntos criar soluções inovadoras e impactantes! 
+
+#Desenvolvimento #MetodologiasÁgeis #Liderança 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanfranklin/)
