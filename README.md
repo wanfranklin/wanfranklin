@@ -13,6 +13,4 @@ Com experiência em gestão de projetos, docência e experiência do usuário, b
 
 Estou preparado para liderar, colaborar e impulsionar o crescimento do negócio. Vamos juntos alcançar a excelência em cada etapa. Vamos criar um futuro inovador!
 
-![image](https://github.com/wanfranklin/wanfranklin/assets/48318977/67884dab-03a4-4283-bdce-bbaa2c2d8933)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanfranklin/)
