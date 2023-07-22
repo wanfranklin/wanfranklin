@@ -1,16 +1,21 @@
 
-# Sobre
+# Sobre Mim:
 
-Olá! É um prazer conhecê-lo(a). Sou um Desenvolvedor Sênior Full Stack .NET apaixonado por automóveis e ficção científica, com mais de duas décadas de experiência.
+Olá! Sou um desenvolvedor Full Stack Sênior apaixonado por tecnologia e inovaçãoa, automóveis, fã de ficção científica, analista, desenvolvedor, educador e autor. Com mais de duas décadas de experiência, tenho expertise em diversas tecnologias e frameworks do ecossistema .NET. 
 
-Meu entusiasmo em explorar o desconhecido e enfrentar novos desafios impulsiona resultados inovadores. Acredito que a busca pelo melhor é essencial, encontrando felicidade em ajudar e ser produtivo.
+# Habilidades:
 
-Como aprendiz constante, reconheço a importância da humildade em buscar conhecimento e aprimorar minhas habilidades. Minha base familiar é referência em honestidade, comprometimento e excelência.
+Linguagens: C#, JavaScript, SQL
+Front-end: ASP.NET WebForms, HTML, CSS, Bootstrap
+Back-end: ASP.NET Core
+Bancos de Dados: SQL Server, MySQL, MariaDB, Oracle, PostgreSQL
+DevOps: Git, Azure DevOps
+Cloud: Microsoft Azure
+Metodologias Ágeis: Scrum, Kanban
+Projetos Destacados:
 
-Minhas habilidades abrangem .NET, VTEX, BI, API banking, E-commerce, liderança, docência, Scrum, Kanban, C# (Console Application, Windows Forms, ASPNET WebForms, MVC, Core e Mobile), XML, JSON, TDD, DDD, microsserviços, Web API/REST, Webservice, Swagger, Postman, SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, HTML5, CSS, JavaScript, Bootstrap, PHP, Git, Gitflow, Docker, Azure DevOps, Jira, Confluence, Trello, Miro, UI e UX.
+# Filosofia de Trabalho:
 
-Com experiência em gestão de projetos, docência e experiência do usuário, busco deixar um legado significativo. Sou um líder que inspira equipes e cria soluções criativas.
-
-Estou preparado para liderar, colaborar e impulsionar o crescimento do negócio. Vamos juntos alcançar a excelência em cada etapa. Vamos criar um futuro inovador!
+Busco constantemente aprimoramento técnico e colaboração com a equipe para alcançar resultados excepcionais. Sou um entusiasta de metodologias ágeis e prezo por entregas de alta qualidade, sempre alinhadas às necessidades do cliente.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanfranklin/)
