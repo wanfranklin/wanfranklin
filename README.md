@@ -10,15 +10,18 @@ Meu entusiasmo em explorar o desconhecido e enfrentar novos desafios impulsiona 
   - .NET (Console Application, Windows Forms, ASPNET WebForms, MVC, Core e Mobile)
   - Front-end: HTML5, CSS, JavaScript, Bootstrap
   - Back-end: ASP.NET Core
-  - Bancos de Dados: SQL Server, MySQL, MariaDB, PostgreSQL, Oracle
+  - Bancos de Dados: SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, MongoDB
   - API: Web API/REST, Webservice, Swagger, Postman
   - XML, JSON
 
 - **Metodologias e Colaboração:**
   - Práticas Ágeis: Scrum, Kanban
   - Git, Gitflow
+
+  - **Tecnologias:**
+    
   - Docker
-  - Azure DevOps, Jira, Confluence, Trello, Miro
+  - Azure DevOps, GCP, Jira, Confluence, Trello, Miro
 
 - **Outras Habilidades:**
   - VTEX, BI, API banking, E-commerce
