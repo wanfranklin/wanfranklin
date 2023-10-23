@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu Perfil! 👋
 
-Olá! É um prazer conhecê-lo(a). Sou um desenvolvedor .NET Full Stack Sênior apaixonado por tecnologia, inovação, automóveis e fã de ficção científica. Com mais de duas décadas de experiência comprovadas, tenho expertise em diversas tecnologias, frameworks e metodologias.
+Olá! É um prazer conhecê-lo(a). Sou apaixonado por tecnologia, inovação, automóveis e fã de ficção científica. Com mais de duas décadas de experiência comprovadas, tenho expertise em diversas tecnologias, frameworks e metodologias.
 
 Meu entusiasmo em explorar o desconhecido e enfrentar novos desafios impulsiona resultados inovadores. Acredito que a busca pelo melhor é essencial, encontrando felicidade em ajudar e ser produtivo. Como aprendiz constante, reconheço a importância de buscar conhecimento e aprimorar minhas aptidões. Minha base familiar é referência em honestidade, comprometimento e excelência.
 
