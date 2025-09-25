@@ -41,7 +41,7 @@ Além da experiência em desenvolvimento, atuo também como **educador**, com vi
 
 ## 🚀 Objetivo Profissional
 
-Atuar no desenvolvimento de **soluções tecnológicas escaláveis, eficientes e centradas no usuário**, com foco em performance, segurança e inovação contínua. Busco contribuir com projetos que envolvam **transformação digital**, **evolução tecnológica** e **formação de talentos** — seja no meio corporativo ou acadêmico.
+Atuar no desenvolvimento de **soluções tecnológicas escaláveis, eficientes e centradas no usuário**, com foco em performance, segurança e inovação contínua. Busco contribuir com projetos que envolvam **transformação digital**, **evolução tecnológica** e **formação de talentos**, seja no meio corporativo ou acadêmico.
 
 ---
 
