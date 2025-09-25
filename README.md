@@ -1,40 +1,48 @@
-# Bem-vindo(a) ao meu Perfil! 👋
+# 👋 Seja bem-vindo(a)!
 
-Olá! É um prazer conhecê-lo(a). Sou apaixonado por tecnologia, inovação, automóveis e fã de ficção científica. Com mais de duas décadas de experiência comprovadas, tenho expertise em diversas tecnologias, frameworks e metodologias.
+Sou um profissional com mais de 20 anos de experiência em **Tecnologia e Inovação**, especializado no desenvolvimento de sistemas com foco em **.NET C# (back-end)** e profundo domínio em **arquitetura de software, APIs, microserviços, BI, IA e Cloud Computing**.
 
-Meu entusiasmo em explorar o desconhecido e enfrentar novos desafios impulsiona resultados inovadores. Acredito que a busca pelo melhor é essencial, encontrando felicidade em ajudar e ser produtivo. Como aprendiz constante, reconheço a importância de buscar conhecimento e aprimorar minhas aptidões. Minha base familiar é referência em honestidade, comprometimento e excelência.
+Atuei em projetos estratégicos em setores como **bancário, educação, logística, petróleo e gás** e **comunicação**, sempre com foco na **transformação digital**, **otimização de processos** e **entrega de valor real**.
 
-## Habilidades
+Além da experiência em desenvolvimento, atuo também como **educador**, com vivência em docência no ensino superior e produção de conteúdo técnico. Tenho perfil colaborativo, orientado a resultados, com visão sistêmica e habilidade para liderar projetos que integram tecnologia, estratégia e inovação.
 
-- **Desenvolvimento:**
-  - .NET (Console Application, Windows Forms, ASPNET WebForms, MVC, Core e Mobile)
-  - Front-end: HTML5, CSS, JavaScript, Bootstrap
-  - Back-end: ASP.NET Core
-  - Bancos de Dados: SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, MongoDB
-  - API: Web API/REST, Webservice, Swagger, Postman
-  - XML, JSON
+---
 
-- **Metodologias e Colaboração:**
-  - Práticas Ágeis: Scrum, Kanban
-  - Git, Gitflow
+## 💻 Principais Competências Técnicas
 
-  - **Tecnologias:**
-    
-  - Docker
-  - Azure DevOps, GCP, Jira, Confluence, Trello, Miro
+### **Linguagens e Frameworks**
+- **.NET C#**: Console Application, Windows Forms, ASP.NET WebForms, MVC, ASP.NET Core, Mobile
+- **Front-end**: HTML5, CSS3, JavaScript, Bootstrap
+- **Back-end**: ASP.NET Core, Web API, RESTful Services
 
-- **Outras Habilidades:**
-  - VTEX, BI, API banking, E-commerce
-  - Liderança, Gestão de Projetos
-  - Docência, Experiência do Usuário (UI/UX)
-  - PHP, Delphi
+### **Bancos de Dados**
+- SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, MongoDB
 
-## Objetivo
+### **Integrações e APIs**
+- Web APIs, Web Services, Swagger, Postman, XML, JSON
 
-Com experiência em gestão de projetos, desenvolvimento, docência e satisfação do usuário, meu objetivo é deixar um legado significativo. Busco constantemente resultados inovadores ao enfrentar novos desafios. Minhas habilidades abrangem ampla gama de tecnologias, do front-end ao back-end, inspirando e impactando em cada projeto.
+### **DevOps e Cloud**
+- Docker, Azure DevOps, Google Cloud Platform (GCP)
 
-Estou preparado para liderar, colaborar e impulsionar o crescimento do negócio. Vamos juntos criar soluções inovadoras e impactantes! 
+### **Metodologias e Gestão**
+- Scrum, Kanban, Git, Gitflow
+- Jira, Confluence, Trello, Miro
 
-#Desenvolvimento #MetodologiasÁgeis #Liderança 
+### **Outras Especializações**
+- E-commerce (incluindo VTEX)
+- Business Intelligence (BI)
+- API Banking
+- UX/UI
+- Docência e Conteudismo Técnico
+- Gestão de Projetos de Software
+- Experiência adicional com PHP e Delphi
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanfranklin/)
+---
+
+## 🚀 Objetivo Profissional
+
+Atuar no desenvolvimento de **soluções tecnológicas escaláveis, eficientes e centradas no usuário**, com foco em performance, segurança e inovação contínua. Busco contribuir com projetos que envolvam **transformação digital**, **evolução tecnológica** e **formação de talentos** — seja no meio corporativo ou acadêmico.
+
+---
+
+**#.NET #Backend #Microservices #Cloud #APIs #BI #Inovação #TransformaçãoDigital #DesenvolvimentoDeSoftware #EducaçãoTecnológica**
