@@ -1,76 +1,66 @@
-Sou um profissional com mais de 20 anos de experiência em **Tecnologia e Inovação**, especializado no desenvolvimento de sistemas com foco em **.NET C# (back-end)** e profundo domínio em **arquitetura de software, APIs, microserviços, BI, IA e Cloud Computing**.
+<div align="center">
 
-Atuei em projetos estratégicos em setores como **bancário, educação, logística, petróleo e gás** e **comunicação**, sempre com foco na **transformação digital**, **otimização de processos** e **entrega de valor real**.
+# Olá! Sou o Wan Franklin 👋
 
-Além da experiência em desenvolvimento, atuo também como **educador**, com vivência em docência no ensino superior e produção de conteúdo técnico. Tenho perfil colaborativo, orientado a resultados, com visão sistêmica e habilidade para liderar projetos que integram tecnologia, estratégia e inovação.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+.NET+C%23+S%C3%AAnio;Lideran%C3%A7a+T%C3%A9cnica;E-commerce+%28VTEX%29+%7C+APIs+%7C+Microsservi%C3%A7os;Cloud+%7C+IA+%7C+Professor+Universit%C3%A1rio" />
 
----
+**+20 anos** atuando no desenvolvimento de sistemas corporativos de alta complexidade e em projetos estratégicos de transformação digital. Experiência em **E-commerce (VTEX)**, **API Banking**, **microsserviços** e soluções de **alta disponibilidade e alta concorrência**. Atuação em segmentos como **Varejo, Bancário, Logística, Petróleo e Gás, Educação e Comunicação**, sempre combinando visão técnica com foco no negócio.
 
-## Principais Competências Técnicas
+Além de **.NET C#**, experiência com **Java**, **Delphi**, **React**, **Python**, **Cloud (Azure e GCP)**, **Microsserviços**, **UX/UI**, **BI** e **IA generativa** (Copilot, Cursor, Claude Code). Mais de **7 anos como professor universitário** em graduação e pós-graduação, com vivência em coordenação acadêmica e mentoria de equipes.
 
-### **Linguagens e Frameworks**
-- **.NET C#**: Console Application, Windows Forms, ASP.NET WebForms, MVC, ASP.NET Core, Mobile
-- **Front-end**: HTML5, CSS3, JavaScript, Bootstrap
-- **Back-end**: ASP.NET Core, Web API, RESTful Services
+<br/>
 
-### **Bancos de Dados**
-- SQL Server, MySQL, MariaDB, PostgreSQL, Oracle, MongoDB
+![Followers](https://img.shields.io/github/followers/wanfranklin?label=Followers&style=social)
+![Total Stars](https://img.shields.io/github/stars/wanfranklin?label=Total%20Stars&style=social)
 
-### **Integrações e APIs**
-- Web APIs, Web Services, Swagger, Postman, XML, JSON
-
-### **DevOps e Cloud**
-- Docker, Azure DevOps, Google Cloud Platform (GCP)
-
-### **Metodologias e Gestão**
-- Scrum, Kanban, Git, Gitflow
-- Jira, Confluence, Trello, Miro
-
-### **Outras Especializações**
-- E-commerce (incluindo VTEX)
-- Business Intelligence (BI)
-- API Banking
-- UX/UI
-- Docência e Conteudismo Técnico
-- Gestão de Projetos de Software
-- Experiência adicional com PHP e Delphi
+</div>
 
 ---
 
-## Objetivo Profissional
+## Tech Stack
 
-Atuar no desenvolvimento de **soluções tecnológicas escaláveis, eficientes e centradas no usuário**, com foco em performance, segurança e inovação contínua. Busco contribuir com projetos que envolvam **transformação digital**, **evolução tecnológica** e **formação de talentos**, seja no meio corporativo ou acadêmico.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,delphi,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js" />
+
+</div>
 
 ---
 
 ## Projetos em Destaque
 
+<div align="center">
+
+[![Latest Release](https://img.shields.io/github/v/release/wanfranklin/gitswap?style=for-the-badge&color=2ea44f&label=Latest%20Release)](https://github.com/wanfranklin/gitswap/releases/latest)
+
+</div>
+
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
+| **[gitswap](https://github.com/wanfranklin/gitswap)** | Troque entre contas Git com uma interface gráfica simples, sem usar o terminal | `C#` `.NET 10` `Avalonia UI` `MVVM` |
 | **crud-mysql-productmanager-api** | API de gerenciamento de produtos com CRUD completo | `C#` `MySQL` `ASP.NET Core` |
 | **crud-mongodb-siscli-api** | Sistema de clientes com DDD e MongoDB | `C#` `MongoDB` `DDD` |
 | **cep-registration-console** | App console para consulta e cadastro de CEPs via ViaCEP | `C#` `API REST` |
 
 ---
 
-## Contato
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanfranklin)
+<p align="center">
+  <img width="48%" src="https://ghstats.dev/api/card?username=wanfranklin&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanfranklin&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanfranklin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
+</p>
 
 ---
 
-## GitHub Stats
+## Contato
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanfranklin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanfranklin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wanfranklin&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wanfranklin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
-
-![Profile Views](https://komarev.github.io/ghprofile-counter?user=wanfranklin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanfranklin)
 
 </div>
