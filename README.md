@@ -2,7 +2,7 @@
 
 # Olá! Sou o Wanfranklin 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Desenvolvedor+.NET+C%23+S%C3%AAnio;Lideran%C3%A7a+T%C3%A9cnica;E-commerce+%28VTEX%29+%7C+APIs+%7C+Microsservi%C3%A7os;Cloud+%7C+IA+%7C+Professor+Universit%C3%A1rio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=550&lines=Desenvolvedor+.NET+C%23+S%C3%AAnio;Lideran%C3%A7a+T%C3%A9cnica;E-commerce+%28VTEX%29+%7C+APIs+%7C+Microsservi%C3%A7os;Cloud+%7C+IA+%7C+Professor+Universit%C3%A1rio" />
 
 **+20 anos** atuando no desenvolvimento de sistemas corporativos de alta complexidade e em projetos estratégicos de transformação digital. Experiência em **E-commerce (VTEX)**, **API Banking**, **microsserviços** e soluções de **alta disponibilidade e alta concorrência**. Atuação em segmentos como **Varejo, Bancário, Logística, Petróleo e Gás, Educação e Comunicação**, sempre combinando visão técnica com foco no negócio.
 
@@ -19,11 +19,11 @@ Além de **.NET C#**, experiência com **Java**, **Delphi**, **React**, **Python
 
 ## Tech Stack
 
-<div align="center">
+<p align="left">
 
 ![Tech Stack](https://skillicons.dev/icons?i=csharp,dotnet,java,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js)
 
-</div>
+</p>
 
 ---
 
