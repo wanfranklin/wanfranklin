@@ -21,7 +21,7 @@ Além de **.NET C#**, experiência com **Java**, **Delphi**, **React**, **Python
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,delphi,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js&perline=8" />
+![Tech Stack](https://skillicons.dev/icons?i=csharp,dotnet,java,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js&perline=8)
 
 </div>
 
