@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Sou o Wan Franklin 👋
+# Olá! Sou o Wanfranklin 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+.NET+C%23+S%C3%AAnio;Lideran%C3%A7a+T%C3%A9cnica;E-commerce+%28VTEX%29+%7C+APIs+%7C+Microsservi%C3%A7os;Cloud+%7C+IA+%7C+Professor+Universit%C3%A1rio" />
 
@@ -21,7 +21,7 @@ Além de **.NET C#**, experiência com **Java**, **Delphi**, **React**, **Python
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,delphi,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,delphi,docker,azure,gcp,git,mongodb,mysql,postgresql,react,python,html,css,js&perline=8" />
 
 </div>
 
