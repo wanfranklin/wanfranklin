@@ -2,10 +2,10 @@
 
 # Olá! Sou o Wanfranklin 👋
 
-![Desenvolvedor .NET C# Senior](https://img.shields.io/badge/Desenvolvedor_.NET_C%23_Senior-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Lideranca Tecnica](https://img.shields.io/badge/Lideranca_Tecnica-239120?style=for-the-badge&logo=git&logoColor=white)
+![Desenvolvedor .NET C# Sênior](https://img.shields.io/badge/Desenvolvedor_.NET_C%23_S%C3%AAnio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Liderança Técnica](https://img.shields.io/badge/Lideran%C3%A7a_T%C3%A9cnica-239120?style=for-the-badge&logo=git&logoColor=white)
 ![E-commerce VTEX](https://img.shields.io/badge/E--commerce_VTEX-F26522?style=for-the-badge&logo=vtex&logoColor=white)
-![Professor Universitario](https://img.shields.io/badge/Professor_Universitario-1572B6?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Professor Universitário](https://img.shields.io/badge/Professor_Universit%C3%A1rio-1572B6?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 **+20 anos** atuando no desenvolvimento de sistemas corporativos de alta complexidade e em projetos estratégicos de transformação digital. Experiência em **E-commerce (VTEX)**, **API Banking**, **microsserviços** e soluções de **alta disponibilidade e alta concorrência**. Atuação em segmentos como **Varejo, Bancário, Logística, Petróleo e Gás, Educação e Comunicação**, sempre combinando visão técnica com foco no negócio.
 
