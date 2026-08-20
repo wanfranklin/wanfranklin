@@ -2,7 +2,7 @@
 
 # Olá! Sou o Wanfranklin 👋
 
-![Desenvolvedor .NET C# Sênior](https://img.shields.io/badge/Desenvolvedor_.NET_C%23_S%C3%AAnio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Desenvolvedor .NET](https://img.shields.io/badge/Desenvolvedor_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Liderança Técnica](https://img.shields.io/badge/Lideran%C3%A7a_T%C3%A9cnica-239120?style=for-the-badge&logo=git&logoColor=white)
 ![E-commerce VTEX](https://img.shields.io/badge/E--commerce_VTEX-F26522?style=for-the-badge&logo=vtex&logoColor=white)
 ![Professor Universitário](https://img.shields.io/badge/Professor_Universit%C3%A1rio-1572B6?style=for-the-badge&logo=google-scholar&logoColor=white)
