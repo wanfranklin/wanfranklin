@@ -1,15 +1,15 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/foto.jpeg" width="300" height="300" style="border-radius: 16px; object-fit: cover;" alt="Wanfranklin" />
+</p>
+
+<h1 align="center">Wanfranklin Alves 🇧🇷</h1>
+
 ![Followers](https://img.shields.io/github/followers/wanfranklin?label=Followers&style=social)
 ![Total Stars](https://img.shields.io/github/stars/wanfranklin?label=Total%20Stars&style=social)
 
 </div>
-
-<p align="center">
-  <img src="assets/foto.jpeg" width="200" height="200" style="border-radius: 16px; object-fit: cover;" alt="Wanfranklin" />
-</p>
-
-<h1 align="center">Wanfranklin Alves 🇧🇷</h1>
 
 ## Sobre Mim
 
