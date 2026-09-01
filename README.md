@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/foto.jpeg" width="300" alt="Wanfranklin" />
+  <img src="assets/image.png" width="400" alt="Wanfranklin" />
 </p>
 
 <h1 align="center">Wanfranklin Alves 🇧🇷</h1>
