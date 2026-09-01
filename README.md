@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/foto.jpeg" width="300" height="300" style="border-radius: 16px; object-fit: cover;" alt="Wanfranklin" />
+  <img src="https://github.com/wanfranklin.png?size=300" width="300" height="300" alt="Wanfranklin" />
 </p>
 
 <h1 align="center">Wanfranklin Alves 🇧🇷</h1>
