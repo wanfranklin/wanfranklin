@@ -145,5 +145,5 @@ Hoje, além de código, uso agentes de IA como parte do fluxo diário de desenvo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanfranklin)
 
-</div># YOLO Test
+</div>
 
