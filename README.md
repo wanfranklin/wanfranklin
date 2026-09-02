@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/foto.jpeg" width="220" alt="Wanfranklin" />
+<img src="assets/image.png" width="220" alt="Wanfranklin" />
 
 # Wanfranklin Alves 🇧🇷
 
